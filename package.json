@@ -1,0 +1,13 @@
+{
+  "name": "techflow-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard da TechFlow - Checkpoint 5 Front-End Design",
+  "scripts": {
+    "dev": "tailwindcss -i ./src/input.css -o ./css/styles.css --watch",
+    "build": "tailwindcss -i ./src/input.css -o ./css/styles.css --minify"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.3.3",
+    "tailwindcss": "^4.3.3"
+  }
+}
