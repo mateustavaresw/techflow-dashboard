@@ -6,6 +6,9 @@ Projeto do Checkpoint 5 de FRONTEND. Dashboard responsivo da empresa fictícia T
 
 - Mateus Tavares RM 571189
 
+## Link do github 
+https://github.com/mateustavaresw/techflow-dashboard.git
+
 ## Tecnologias utilizadas
 
 - HTML5
